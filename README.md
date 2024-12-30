@@ -1,0 +1,2 @@
+# 2025_COSMIC_WINTER
+2025년도 1 -2 겨울방학 COSMIC 활동
