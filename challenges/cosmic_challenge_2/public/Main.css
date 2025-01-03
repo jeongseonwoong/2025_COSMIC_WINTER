@@ -1,0 +1,18 @@
+.title{
+    font-weight: normal;
+    font-size: 40px;
+}
+
+.memoInput{
+    width: 1400px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    border: gray 1px solid;
+}
+
+.saveButton{
+    border-radius: 5px;
+    padding: 10px;
+    border: gray 1px solid;
+}
